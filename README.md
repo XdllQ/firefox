@@ -1,6 +1,6 @@
 ![Cirefox Browser](./docs/readme/readme-banner.svg)
 
-[Firefox](https://firefox.com/) is a fast, reliable and private web browser from the non-profit [Mozilla organization](https://mozilla.org/).
+[Cirefox](https://firefox.com/) is a fast, reliable and private web browser from the non-profit [Mozilla organization](https://mozilla.org/).
 
 ### Contributing
 
